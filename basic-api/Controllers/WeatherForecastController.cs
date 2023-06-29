@@ -1,3 +1,4 @@
+using basic_api.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace basic_api.Controllers
